@@ -1,0 +1,17 @@
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.Tests.deps.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.Tests.runtimeconfig.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.Tests.runtimeconfig.dev.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.Tests.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.Tests.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\bin\Debug\netcoreapp2.1\AlgoritmoN2.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.csprojAssemblyReference.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.AssemblyInfoInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.AssemblyInfo.cs
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.csproj.CopyComplete
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN2.Tests\obj\Debug\netcoreapp2.1\AlgoritmoN2.Tests.pdb

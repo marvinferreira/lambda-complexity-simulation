@@ -1,0 +1,14 @@
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\AlgoritmoN-V2.deps.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\AlgoritmoN-V2.runtimeconfig.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\AlgoritmoN-V2.runtimeconfig.dev.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\AlgoritmoN-V2.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\AlgoritmoN-V2.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.csproj.CoreCompileInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.AssemblyInfoInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.AssemblyInfo.cs
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.csproj.CopyComplete
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\AlgoritmoN-V2\obj\Debug\netcoreapp2.1\AlgoritmoN-V2.csprojAssemblyReference.cache

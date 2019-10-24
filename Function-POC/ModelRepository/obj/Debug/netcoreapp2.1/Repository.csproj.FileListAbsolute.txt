@@ -1,0 +1,16 @@
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\marvin.ferreira\POC-WKSHP\Funcion-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\PersonalProjects\lambda-complexity-simulation\Function-POC\ModelRepository\obj\Debug\netcoreapp2.1\Repository.pdb
